@@ -20,7 +20,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "www.linkedin.com/in/md-ziaul-hoque"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/md-ziaul-hoque"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ziaul55"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/ziaul55/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/ziaul55"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
@@ -31,4 +31,4 @@
 <a href="https://github.com/ziaul55/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MZH">
 </a>
-<a href="https://github.com/MZH?tab=followers"><img src="https://img.shields.io/github/followers/ziaul55?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/ziaul55?tab=followers"><img src="https://img.shields.io/github/followers/ziaul55?label=Followers&style=social" alt="GitHub Badge"></a>
