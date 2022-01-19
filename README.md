@@ -8,7 +8,7 @@
 
 - 🌱 Pursuing research majoring in machine learning and deep learning driven AI-based solutions to support personalized clinical diagnostic or therapeutic decisions.
 
-- 👨‍💻 Supervising programming exercises of three regular courses in the Faculty of ITEE, University of Oulu, Finland including **"Machine Learning", "Computer Vision Methods for Biomedical Images" and "Biosignal Processing II"**.
+- 👨‍💻 Supervising programming exercises of three regular courses including **"Machine Learning", "Computer Vision Methods for Biomedical Images" and "Biosignal Processing II"** in the Faculty of ITEE, University of Oulu, Finland.
 
 - 👯 Looking to collaborate on **Machine Learning, Medical Image Analysis, Artificial Intelligence** related projects.
 
