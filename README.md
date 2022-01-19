@@ -6,15 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently pursuing my doctoral research majoring in machine learning and deep learning driven AI-based solutions to support personalized clinical diagnostic or therapeutic decisions at University of Oulu, Finland.
+- 🔭 I’m currently doing research majoring in machine learning and deep learning driven AI-based solutions to support personalized clinical diagnostic or therapeutic decisions.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Machine Learning, Medical Image Analysis, Artificial Intelligence related Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio]**
 
-- 📫 How to reach me **mzh@gmail.com**
+- 📫 How to reach me **ziaul55@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
