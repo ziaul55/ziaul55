@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="Auto%" src="https://nordiclifescience.org/wp-content/public_html/2021/03/iStock-1197563732-e1616423949129.jpg" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm MZH</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Md. Ziaul Hoque</h1>
 <h3 align="center">I'm a passionate Software Developer from Finland.</h3>
 
 
@@ -21,14 +21,14 @@
 <p align="left">
 
 <a href = "www.linkedin.com/in/md-ziaul-hoque"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/MZH"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/MZH/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/MZH"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://twitter.com/ziaul55"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/ziaul55/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/ziaul55"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/MZH/github-profile-views-counter">
+<a href="https://github.com/ziaul55/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MZH">
 </a>
-<a href="https://github.com/MZH?tab=followers"><img src="https://img.shields.io/github/followers/MZH?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/MZH?tab=followers"><img src="https://img.shields.io/github/followers/ziaul55?label=Followers&style=social" alt="GitHub Badge"></a>
