@@ -8,7 +8,11 @@
 
 - 🌱 Pursuing research majoring in machine learning and deep learning driven AI-based solutions to support personalized clinical diagnostic or therapeutic decisions.
 
-- 👯 Looking to collaborate on **Machine Learning, Medical Image Analysis, Artificial Intelligence** related projects
+- 👨‍💻 Supervising programming exercises of three regular courses in the Faculty of ITEE, University of Oulu, Finland including **"Machine Learning", "Computer Vision Methods for Biomedical Images" and "Biosignal Processing II"**.
+
+- 👯 Looking to collaborate on **Machine Learning, Medical Image Analysis, Artificial Intelligence** related projects.
+
+- 🔭 Principal goal is to be an innovator in the chosen field, which will help me to gain a suitable status in the industry.
 
 - ⚡ **Area of Specialization:** Machine Learning, Medical Image Analysis, Artificial Intelligence, Empirical Software Development, Deep Learning and Computer Vision.
 
