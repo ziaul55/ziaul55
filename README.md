@@ -8,9 +8,9 @@
 
 - 🌱 Pursuing research majoring in machine learning and deep learning driven AI-based solutions to support personalized clinical diagnostic or therapeutic decisions.
 
-- 👯 Area of Specialization: Machine Learning, Medical Image Analysis, Artificial Intelligence, Empirical Software Development, Deep Learning and Computer Vision.
+- 👯 Looking to collaborate on **Machine Learning, Medical Image Analysis, Artificial Intelligence** related projects
 
-- ⚡ Looking to collaborate on **Machine Learning, Medical Image Analysis, Artificial Intelligence related projects**
+- ⚡ **Area of Specialization:** Machine Learning, Medical Image Analysis, Artificial Intelligence, Empirical Software Development, Deep Learning and Computer Vision.
 
 ## 🚀 Languages and Tools:
 
