@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="Auto%" src="https://nordiclifescience.org/wp-content/public_html/2021/03/iStock-1197563732-e1616423949129.jpg" height="175px"/></a>
 
-<h1 align="center">|<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">| Md. Ziaul Hoque</h1>
+<h1 align="center">|<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">| Md. Ziaul Hoque |</h1>
 <h3 align="center">|| A Passionate Researcher and Software Developer ||</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🌱 Pursuing research majoring in machine learning and deep learning driven AI-based solutions to support personalized clinical diagnostic or therapeutic decisions.
+- 👨‍💻 Pursuing research majoring in machine learning and deep learning driven AI-based solutions to support personalized clinical diagnostic or therapeutic decisions.
 
-- 👨‍💻 Supervising programming exercises of three regular courses including **"Machine Learning", "Computer Vision Methods for Biomedical Images" and "Biosignal Processing II"** in the Faculty of ITEE, University of Oulu, Finland.
+- 🌱 Supervising programming exercises of three regular courses including **"Machine Learning", "Computer Vision Methods for Biomedical Images" and "Biosignal Processing II"** in the Faculty of ITEE, University of Oulu, Finland.
 
 - 👯 Looking to collaborate on **Machine Learning**, **Medical Image Analysis**, **Artificial Intelligence** and **Computer Vision** related projects.
 
