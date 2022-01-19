@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="Auto%" src="https://github.com/MZFI/MZFI/blob/main/Logo.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="Auto%" src="https://nordiclifescience.org/wp-content/public_html/2021/03/iStock-1197563732-e1616423949129.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm MZH</h1>
 <h3 align="center">I'm a passionate Software Developer from Finland.</h3>
@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 Currently doing research majoring in machine learning and deep learning driven AI-based solutions to support personalized clinical diagnostic or therapeutic decisions.
+- 🌱 Pursuing research majoring in machine learning and deep learning driven AI-based solutions to support personalized clinical diagnostic or therapeutic decisions.
 
 - 👯 Looking to collaborate on **Machine Learning, Medical Image Analysis, Artificial Intelligence related projects**
 
@@ -20,7 +20,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/MZH/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "www.linkedin.com/in/md-ziaul-hoque"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/MZH"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/MZH/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/MZH"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
