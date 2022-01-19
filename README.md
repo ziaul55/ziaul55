@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="Auto%" src="https://nordiclifescience.org/wp-content/public_html/2021/03/iStock-1197563732-e1616423949129.jpg" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Md. Ziaul Hoque</h1>
+<h1 align="center">|Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">| Md. Ziaul Hoque</h1>
 <h3 align="center">|| A Passionate Researcher and Software Developer ||</h3>
 
 
