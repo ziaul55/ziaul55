@@ -14,7 +14,7 @@
 
 - 🔭 Principal goal is to be an innovator in the chosen field, which will help me to gain a suitable status in the industry.
 
-- ⚡ **Area of Specialization:** Machine Learning, Medical Image Analysis, Artificial Intelligence, Empirical Software Development and Computer Vision.
+- ⚡ **Area of Specialization:** Machine Learning, Medical Image Analysis, Artificial Intelligence, Empirical Software Development, Deep Learning and Computer Vision.
 
 ## 🚀 Languages and Tools:
 
