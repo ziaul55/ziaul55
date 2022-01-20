@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 Pursuing research majoring in machine learning and deep learning driven AI-based solutions to support personalized clinical diagnostic or therapeutic decisions.
+- 🌱 Pursuing research majoring in machine learning and deep learning driven AI-based solutions to support personalized clinical diagnostic or therapeutic decisions.
 
 - 🌱 Supervising programming exercises of three regular courses including **"Machine Learning"**, **"Computer Vision Methods for Biomedical Images"** and **"Biosignal Processing II"** in the Faculty of ITEE, University of Oulu, Finland.
 
-- 👯 Looking to collaborate on **Machine Learning**, **Medical Image Analysis**, **Artificial Intelligence** and **Computer Vision** related projects.
+- ⚡ Looking to collaborate on **Machine Learning**, **Medical Image Analysis**, **Artificial Intelligence** and **Computer Vision** related projects.
 
 - ⚡ Principal goal is to be an innovator in the chosen field, which will help me to gain a suitable status in the industry.
 
