@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 Pursuing research majoring in machine learning and deep learning driven AI-based solutions to support personalized clinical diagnostic or therapeutic decisions.
+- 👨‍💻 Pursuing research majoring in machine learning and deep learning driven AI-based solutions to support personalized clinical diagnostic or therapeutic decisions.
 
 - 🌱 Supervising programming exercises of three regular courses including **"Machine Learning"**, **"Computer Vision Methods for Biomedical Images"** and **"Biosignal Processing II"** in the Faculty of ITEE, University of Oulu, Finland.
 
@@ -14,7 +14,7 @@
 
 - ⚡ Principal goal is to be an innovator in the chosen field, which will help me to gain a suitable status in the industry.
 
-- ⚡ **Area of Specialization:** Machine Learning, Medical Image Analysis, Artificial Intelligence, Empirical Software Development, Deep Learning and Computer Vision.
+- 🔭 **Area of Specialization:** Machine Learning, Medical Image Analysis, Artificial Intelligence, Empirical Software Development, Deep Learning and Computer Vision.
 
 ## 🚀 Languages and Tools:
 
