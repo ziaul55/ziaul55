@@ -10,11 +10,11 @@
 
 - 🌱 Supervising programming exercises of three regular courses including **"Machine Learning"**, **"Computer Vision Methods for Biomedical Images"** and **"Biosignal Processing II"** in the Faculty of ITEE, University of Oulu, Finland.
 
-- ⚡ Looking to collaborate on **Machine Learning**, **Medical Image Analysis**, **Artificial Intelligence** and **Computer Vision** related projects.
+- 🤝 Looking to collaborate on **Machine Learning**, **Medical Image Analysis**, **Artificial Intelligence** and **Computer Vision** related projects.
 
 - ⚡ Principal goal is to be an innovator in the chosen field, which will help me to gain a suitable status in the industry.
 
-- ⚡ **Area of Specialization:** Machine Learning, Medical Image Analysis, Artificial Intelligence, Empirical Software Development, Deep Learning and Computer Vision.
+- 🔭 **Area of Specialization:** Machine Learning, Medical Image Analysis, Artificial Intelligence, Empirical Software Development, Deep Learning and Computer Vision.
 
 ## 🚀 Languages and Tools:
 
